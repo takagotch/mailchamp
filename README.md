@@ -15,7 +15,8 @@ https://login.mailchimp.com/?referrer=%2Ftemplates%2F#/
 tkvtv
 PASSxxxxx
 
-
+# Signup form URL
+http://eepurl.com/hhLC69
 
 ```
 
